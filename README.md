@@ -1,8 +1,24 @@
-# React + Vite
+# Color Picker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This project serves as a **checkpoint submission** in the **React learning path** on [**Codedex**](https://www.codedex.io/react). It demonstrates the practical application of React for creating interactive user interfaces and managing state within a React application.
 
-Currently, two official plugins are available:
+## Installation
+1. **Clone Repository:**
+```bash
+  git clone https://github.com/imanmaulana1/colorpicker-app.git
+```
+2. **Navigate to Project Directory:**
+```bash
+  cd colorpicker-app
+```
+3. **Install Dependencies:**
+```bash
+  npm install
+```
+4. **Run the Application:**
+```bash
+  npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The application will be available at http://localhost:5173.
